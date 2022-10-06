@@ -1,4 +1,4 @@
-// 69ms
+// 69ms, 85.47%
 // 41.9mb
 
 const lengthOfLastWord = function(s) {
