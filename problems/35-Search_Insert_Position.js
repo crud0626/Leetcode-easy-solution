@@ -1,5 +1,5 @@
-// Runtime: 58ms
-// Memory Usage: 42.2MB
+// 58ms, 97.62%
+// 42.2MB
 
 const searchInsert = function(nums, target) {
     for(let i = 0; i < nums.length; i++) {
