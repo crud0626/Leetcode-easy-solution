@@ -1,4 +1,4 @@
-// 128ms
+// 128ms, 99.99%
 // 51.6 MB
 
 const isPalindrome = function(x) {
