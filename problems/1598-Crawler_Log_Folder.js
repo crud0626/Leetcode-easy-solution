@@ -1,5 +1,5 @@
-// 
-// 
+// 73ms, 84.72%
+// 43.7 MB
 
 const minOperations = function(logs) {
     let minNums = 0;
