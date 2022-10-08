@@ -62,6 +62,7 @@
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [JavaScript](./problems/463-Island_Perimeter.js) | 168ms / 82.48% |
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [JavaScript](./problems/476-Number_Complement.js) | 65ms / 81.66% |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [JavaScript](./problems/485-Max_Consecutive_Ones.js) | 81ms / 79.39% |
+| 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [JavaScript](./problems/492-Construct_the_Rectangle.js) | 66ms / 94.15% |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [JavaScript](./problems/496-Next_Greater_Element_I.js) | 74ms / 82.91% |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [JavaScript](./problems/500-Keyboard_Row.js) | 57ms / 94.15% |
 | 504 | [Base 7](https://leetcode.com/problems/base-7/) | [JavaScript](./problems/504-Base_7.js) | 59ms / 90.91% |
