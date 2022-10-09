@@ -32,6 +32,7 @@
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [JavaScript](./problems/258-Add_Digits.js) | 68ms / 96.51% |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [JavaScript](./problems/263-Ugly_Number.js) | 79ms / 84.12% |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [JavaScript](./problems/268-Missing_Number.js) | 95ms / 53.19% |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [JavaScript](./problems/278-First_Bad_Version.js) | 61ms / 95.09% |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [JavaScript](./problems/283-Move_Zeroes.js) | 104ms / 86.10% |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [JavaScript](./problems/290-Word_Pattern.js) | 62ms / 85.34% |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [JavaScript](./problems/292-Nim_Game.js) | 39ms / 100% |
