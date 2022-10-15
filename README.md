@@ -160,5 +160,6 @@
 | 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | [JavaScript](./problems/1688-Count_of_Matches_in_Tournament.js) | 64ms / 91.87% |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [JavaScript](./problems/1704-Determine_if_String_Halves_Are_Alike.js) | 63ms / 97.46% |
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [JavaScript](./problems/1710-Maximum_Units_on_a_Truck.js) | 71ms / 98.70% |
+| 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [JavaScript](./problems/1716-Calculate_Money_in_Leetcode_Bank.js) | 72ms / 84.31% |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [JavaScript](./problems/2278-Percentage_of_Letter_in_String.js) | 59ms / 96.95% |
 | 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [JavaScript](./problems/2395-Find_Subarrays_With_Equal_Sum.js) | 76ms / 83.76% |
