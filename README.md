@@ -162,5 +162,6 @@
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [JavaScript](./problems/1710-Maximum_Units_on_a_Truck.js) | 71ms / 98.70% |
 | 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [JavaScript](./problems/1716-Calculate_Money_in_Leetcode_Bank.js) | 72ms / 84.31% |
 | 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [JavaScript](./problems/1720-Decode_XORed_Array.js) | 100ms / 92.68% |
+| 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [JavaScript](./problems/1732-Find_the_Highest_Altitude.js) | 62ms / 95.06% |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [JavaScript](./problems/2278-Percentage_of_Letter_in_String.js) | 59ms / 96.95% |
 | 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [JavaScript](./problems/2395-Find_Subarrays_With_Equal_Sum.js) | 76ms / 83.76% |
