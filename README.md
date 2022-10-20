@@ -165,5 +165,6 @@
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [JavaScript](./problems/1732-Find_the_Highest_Altitude.js) | 62ms / 95.06% |
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [JavaScript](./problems/1748-Sum_of_Unique_Elements.js) | 73ms / 85.30% |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [JavaScript](./problems/1768-Merge_Strings_Alternately.js) | 62ms / 95.20% |
+| 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [JavaScript](./problems/1773-Count_Items_Matching_a_Rule.js) | 74ms / 97.85% |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [JavaScript](./problems/2278-Percentage_of_Letter_in_String.js) | 59ms / 96.95% |
 | 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [JavaScript](./problems/2395-Find_Subarrays_With_Equal_Sum.js) | 76ms / 83.76% |
