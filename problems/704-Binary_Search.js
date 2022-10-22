@@ -1,12 +1,21 @@
-// 62ms, 97.09%
+// 62ms, 98.27%
 // 45MB
 
 const search = function(nums, target) {
-    for(let i = 0; i < nums.length; i++) {
-        if (nums[i] === target) {
-            return i;
+    let left = 0, right = nums.length - 1;
+    
+    while(left <= right) {
+        const medium = Math.floor((left + right) / 2), midNum = nums[medium];
+
+        if(midNum === target) return medium;
+        
+        if(midNum < target) {
+            left = medium + 1;
+        } else {
+            right = medium - 1;
         }
     }
+
     return -1;
 };
 

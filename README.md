@@ -83,7 +83,7 @@
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [JavaScript](./problems/657-Robot_Return_to_Origin.js) | 79ms / 84.60% |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [JavaScript](./problems/674-Longest_Continuous_Increasing_Subsequence.js) | 65ms / 92.88% |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | [JavaScript](./problems/696-Count_Binary_Substrings.js) | 72ms / 99.04% |
-| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [JavaScript](./problems/704-Binary_Search.js) | 62ms / 97.09% |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [JavaScript](./problems/704-Binary_Search.js) | 62ms / 98.27% |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [JavaScript](./problems/705-Design_HashSet.js) | 166ms / 95.36% |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [JavaScript](./problems/706-Design_HashMap.js) | 178ms / 97.47% |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [JavaScript](./problems/709-To_Lower_Case.js) | 60ms / 93.92% |
