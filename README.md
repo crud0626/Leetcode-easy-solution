@@ -170,5 +170,6 @@
 | 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | [JavaScript](./problems/1796-Second_Largest_Digit_in_a_String.js) | 68ms / 97.20% |
 | 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | [JavaScript](./problems/1800-Maximum_Ascending_Subarray_Sum.js) | 54ms / 100% |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [JavaScript](./problems/1816-Truncate_Sentence.js) | 55ms / 98.83% |
+| 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [JavaScript](./problems/1822-Sign_of_the_Product_of_an_Array.js) | 58ms / 98.11% |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [JavaScript](./problems/2278-Percentage_of_Letter_in_String.js) | 59ms / 96.95% |
 | 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [JavaScript](./problems/2395-Find_Subarrays_With_Equal_Sum.js) | 76ms / 83.76% |
