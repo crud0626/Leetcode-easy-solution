@@ -172,5 +172,6 @@
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [JavaScript](./problems/1816-Truncate_Sentence.js) | 55ms / 98.83% |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [JavaScript](./problems/1822-Sign_of_the_Product_of_an_Array.js) | 58ms / 98.11% |
 | 1827 | [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [JavaScript](./problems/1827-Minimum_Operations_to_Make_the_Array_Increasing.js) | 70ms / 94.14% |
+| 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [JavaScript](./problems/1832-Check_if_the_Sentence_Is_Pangram.js) | 47ms / 99.95% |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [JavaScript](./problems/2278-Percentage_of_Letter_in_String.js) | 59ms / 96.95% |
 | 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [JavaScript](./problems/2395-Find_Subarrays_With_Equal_Sum.js) | 76ms / 83.76% |
