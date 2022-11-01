@@ -176,5 +176,6 @@
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | [JavaScript](./problems/1837-Sum_of_Digits_in_Base_K.js) | 62ms / 94.41% |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [JavaScript](./problems/1844-Replace_All_Digits_with_Characters.js) | 63ms / 96.15% |
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [JavaScript](./problems/1859-Sorting_the_Sentence.js) | 60ms / 94.84% |
+| 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [JavaScript](./problems/1876-Substrings_of_Size_Three_with_Distinct_Characters.js) | 67ms / 95.80% |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [JavaScript](./problems/2278-Percentage_of_Letter_in_String.js) | 59ms / 96.95% |
 | 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [JavaScript](./problems/2395-Find_Subarrays_With_Equal_Sum.js) | 76ms / 83.76% |
