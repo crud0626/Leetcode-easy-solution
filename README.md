@@ -179,5 +179,6 @@
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [JavaScript](./problems/1876-Substrings_of_Size_Three_with_Distinct_Characters.js) | 67ms / 95.80% |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [JavaScript](./problems/1929-Concatenation_of_Array.js) | 78ms / 96.54% |
 | 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | [JavaScript](./problems/1952-Three_Divisors.js) | 68ms / 89.67% |
+| 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [JavaScript](./problems/1957-Delete_Characters_to_Make_Fancy_String.js) | 236ms / 85.26% |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [JavaScript](./problems/2278-Percentage_of_Letter_in_String.js) | 59ms / 96.95% |
 | 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [JavaScript](./problems/2395-Find_Subarrays_With_Equal_Sum.js) | 76ms / 83.76% |
