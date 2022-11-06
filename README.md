@@ -181,5 +181,6 @@
 | 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | [JavaScript](./problems/1952-Three_Divisors.js) | 68ms / 89.67% |
 | 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [JavaScript](./problems/1957-Delete_Characters_to_Make_Fancy_String.js) | 236ms / 85.26% |
 | 1961 | [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | [JavaScript](./problems/1961-Check_If_String_Is_a_Prefix_of_Array.js) | nn |
+| 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [JavaScript](./problems/1979-Find_Greatest_Common_Divisor_of_Array.js) | 69ms / 93.63% |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [JavaScript](./problems/2278-Percentage_of_Letter_in_String.js) | 59ms / 96.95% |
 | 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [JavaScript](./problems/2395-Find_Subarrays_With_Equal_Sum.js) | 76ms / 83.76% |
