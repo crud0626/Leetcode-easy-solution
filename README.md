@@ -180,7 +180,7 @@
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [JavaScript](./problems/1929-Concatenation_of_Array.js) | 78ms / 96.54% |
 | 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | [JavaScript](./problems/1952-Three_Divisors.js) | 68ms / 89.67% |
 | 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [JavaScript](./problems/1957-Delete_Characters_to_Make_Fancy_String.js) | 236ms / 85.26% |
-| 1961 | [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | [JavaScript](./problems/1961-Check_If_String_Is_a_Prefix_of_Array.js) | nn |
+| 1961 | [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | [JavaScript](./problems/1961-Check_If_String_Is_a_Prefix_of_Array.js) | 68ms / 94.18% |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [JavaScript](./problems/1979-Find_Greatest_Common_Divisor_of_Array.js) | 69ms / 93.63% |
 | 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | [JavaScript](./problems/1991-Find_the_Middle_Index_in_Array.js) | 59ms / 99.44% |
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [JavaScript](./problems/2000-Reverse_Prefix_of_Word.js) | 59ms / 97.39% |
