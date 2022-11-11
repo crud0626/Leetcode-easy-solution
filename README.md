@@ -186,5 +186,6 @@
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [JavaScript](./problems/2000-Reverse_Prefix_of_Word.js) | 59ms / 97.39% |
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [JavaScript](./problems/2011-Final_Value_of_Variable_After_Performing_Operations.js) | 63ms / 97.55% |
 | 2022 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | [JavaScript](./problems/2022-Convert_1D_Array_Into_2D_Array.js) | 287ms / 82.10% |
+| 2027 | [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/) | [JavaScript](./problems/2027-Minimum_Moves_to_Convert_String.js) | 64ms / 96.12% |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [JavaScript](./problems/2278-Percentage_of_Letter_in_String.js) | 59ms / 96.95% |
 | 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [JavaScript](./problems/2395-Find_Subarrays_With_Equal_Sum.js) | 76ms / 83.76% |
