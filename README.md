@@ -188,5 +188,6 @@
 | 2022 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | [JavaScript](./problems/2022-Convert_1D_Array_Into_2D_Array.js) | 287ms / 82.10% |
 | 2027 | [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/) | [JavaScript](./problems/2027-Minimum_Moves_to_Convert_String.js) | 64ms / 96.12% |
 | 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three/) | [JavaScript](./problems/2032-Two_Out_of_Three.js) | 79ms / 95.82% |
+| 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | [JavaScript](./problems/2053-Kth_Distinct_String_in_an_Array.js) | 71ms / 98.59% |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [JavaScript](./problems/2278-Percentage_of_Letter_in_String.js) | 59ms / 96.95% |
 | 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [JavaScript](./problems/2395-Find_Subarrays_With_Equal_Sum.js) | 76ms / 83.76% |
