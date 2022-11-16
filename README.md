@@ -191,5 +191,6 @@
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | [JavaScript](./problems/2053-Kth_Distinct_String_in_an_Array.js) | 71ms / 98.59% |
 | 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) | [JavaScript](./problems/2057-Smallest_Index_With_Equal_Value.js) | 66ms / 96.35% |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [JavaScript](./problems/2089-Find_Target_Indices_After_Sorting_Array.js) | 68ms / 96.19% |
+| 2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods/) | [JavaScript](./problems/2103-Rings_and_Rods.js) | 60ms / 95.74% |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [JavaScript](./problems/2278-Percentage_of_Letter_in_String.js) | 59ms / 96.95% |
 | 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [JavaScript](./problems/2395-Find_Subarrays_With_Equal_Sum.js) | 76ms / 83.76% |
