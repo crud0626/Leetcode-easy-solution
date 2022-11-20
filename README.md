@@ -195,5 +195,6 @@
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [JavaScript](./problems/2108-Find_First_Palindromic_String_in_the_Array.js) | 106ms / 86.45% |
 | 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [JavaScript](./problems/2114-Maximum_Number_of_Words_Found_in_Sentences.js) | 61ms / 98.25% |
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [JavaScript](./problems/2119-A_Number_After_a_Double_Reversal.js) | 71ms / 84.16% |
+| 2129 | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/) | [JavaScript](./problems/2129-Capitalize_the_Title.js) | 71ms / 86.85% |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [JavaScript](./problems/2278-Percentage_of_Letter_in_String.js) | 59ms / 96.95% |
 | 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [JavaScript](./problems/2395-Find_Subarrays_With_Equal_Sum.js) | 76ms / 83.76% |
