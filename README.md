@@ -133,6 +133,7 @@
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [JavaScript](./problems/1365-How_Many_Numbers_Are_Smaller_Than_the_Current_Number.js) | 96ms / 83.07% |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [JavaScript](./problems/1389-Create_Target_Array_in_the_Given_Order.js) | 69ms / 86.36% |
 | 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [JavaScript](./problems/1394-Find_Lucky_Integer_in_an_Array.js) | 68ms / 96.61% |
+| 1403 | [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [JavaScript](./problems/1403-Minimum_Subsequence_in_Non-Increasing_Order.js) | 83ms / 81.31% |
 | 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | [JavaScript](./problems/1408-String_Matching_in_an_Array.js) | 65ms / 96.46% |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [JavaScript](./problems/1431-Kids_With_the_Greatest_Number_of_Candies.js) | 68ms / 90.05% |
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [JavaScript](./problems/1455-Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.js) | 67ms / 86.10% |
