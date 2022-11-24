@@ -164,6 +164,7 @@
 | 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [JavaScript](./problems/1716-Calculate_Money_in_Leetcode_Bank.js) | 72ms / 84.31% |
 | 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [JavaScript](./problems/1720-Decode_XORed_Array.js) | 100ms / 92.68% |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [JavaScript](./problems/1732-Find_the_Highest_Altitude.js) | 62ms / 95.06% |
+| 1736 | [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/) | [JavaScript](./problems/1736-Latest_Time_by_Replacing_Hidden_Digits.js) | 65ms / 89.13% |
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [JavaScript](./problems/1748-Sum_of_Unique_Elements.js) | 73ms / 85.30% |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [JavaScript](./problems/1768-Merge_Strings_Alternately.js) | 62ms / 95.20% |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [JavaScript](./problems/1773-Count_Items_Matching_a_Rule.js) | 74ms / 97.85% |
