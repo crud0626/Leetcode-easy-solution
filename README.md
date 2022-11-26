@@ -199,6 +199,7 @@
 | 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [JavaScript](./problems/2114-Maximum_Number_of_Words_Found_in_Sentences.js) | 61ms / 98.25% |
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [JavaScript](./problems/2119-A_Number_After_a_Double_Reversal.js) | 71ms / 84.16% |
 | 2129 | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/) | [JavaScript](./problems/2129-Capitalize_the_Title.js) | 71ms / 86.85% |
+| 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [JavaScript](./problems/2144-Minimum_Cost_of_Buying_Candies_With_Discount.js) | 74ms / 86.29% |
 | 2154 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | [JavaScript](./problems/2154-Keep_Multiplying_Found_Values_by_Two.js) | 60ms / 97.74% |
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | [JavaScript](./problems/2160-Minimum_Sum_of_Four_Digit_Number_After_Splitting_Digits.js) | 56ms / 99.13% |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [JavaScript](./problems/2278-Percentage_of_Letter_in_String.js) | 59ms / 96.95% |
