@@ -18,6 +18,7 @@
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [JavaScript](<./problems/69-Sqrt(x).js>) | 68ms / 96.76% |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [JavaScript](./problems/70-Climbing_Stairs.js) | 52ms / 98.34% |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [JavaScript](./problems/104-Maximum_Depth_of_Binary_Tree.js) | 85ms / 81.60% |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [JavaScript](./problems/111-Minimum_Depth_of_Binary_Tree.js) | 249ms / 93.06% |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [JavaScript](./problems/121-Best_Time_to_Buy_and_Sell_Stock.js) | 84ms / 97.00% |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [JavaScript](./problems/125-Valid_Palindrome.js) | 64ms / 99.30% |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [JavaScript](./problems/136-Single_Number.js) | 96ms / 55.01% |
