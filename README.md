@@ -53,6 +53,7 @@
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [JavaScript](./problems/387-First_Unique_Character_in_a_String.js) | 95ms / 94.03% |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [JavaScript](./problems/389-Find_the_Difference.js) | 62ms, 97.14% |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [JavaScript](./problems/392-Is_Subsequence.js) | 64ms / 93.53% |
+| 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [JavaScript](./problems/404-Sum_of_Left_Leaves.js) | 70ms / 90.66% |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [JavaScript](./problems/409-Longest_Palindrome.js) | 67ms / 94.09% |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [JavaScript](./problems/412-Fizz_Buzz.js) | 61ms / 97.77% |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [JavaScript](./problems/414-Third_Maximum_Number.js) | 63ms / 93.61% |
