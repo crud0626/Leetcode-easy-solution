@@ -81,6 +81,7 @@
 | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [JavaScript](./problems/594-Longest_Harmonious_Subsequence.js) | 135ms / 82.76% |
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [JavaScript](./problems/599-Minimum_Index_Sum_of_Two_Lists.js) | 119ms / 82.32% |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [JavaScript](./problems/605-Can_Place_Flowers.js) | 64ms / 97.38% |
+| 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [JavaScript](./problems/617-Merge_Two_Binary_Trees.js) | 111ms / 85.75% |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [JavaScript](./problems/628-Maximum_Product_of_Three_Numbers.js) | 134ms / 72.33% |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [JavaScript](./problems/643-Maximum_Average_Subarray_I.js) | 120ms / 68.78% |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [JavaScript](./problems/645-Set_Mismatch.js) | 76ms / 96.04% |
