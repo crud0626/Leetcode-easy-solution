@@ -83,6 +83,7 @@
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [JavaScript](./problems/605-Can_Place_Flowers.js) | 64ms / 97.38% |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [JavaScript](./problems/617-Merge_Two_Binary_Trees.js) | 111ms / 85.75% |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [JavaScript](./problems/628-Maximum_Product_of_Three_Numbers.js) | 134ms / 72.33% |
+| 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [JavaScript](./problems/637-Average_of_Levels_in_Binary_Tree.js) | 69ms / 99.42% |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [JavaScript](./problems/643-Maximum_Average_Subarray_I.js) | 120ms / 68.78% |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [JavaScript](./problems/645-Set_Mismatch.js) | 76ms / 96.04% |
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [JavaScript](./problems/657-Robot_Return_to_Origin.js) | 79ms / 84.60% |
