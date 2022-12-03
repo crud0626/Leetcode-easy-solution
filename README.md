@@ -87,6 +87,7 @@
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [JavaScript](./problems/643-Maximum_Average_Subarray_I.js) | 120ms / 68.78% |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [JavaScript](./problems/645-Set_Mismatch.js) | 76ms / 96.04% |
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [JavaScript](./problems/657-Robot_Return_to_Origin.js) | 79ms / 84.60% |
+| 671 | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [JavaScript](./problems/671-Second_Minimum_Node_In_a_Binary_Tree.js) | 61ms / 95.38% |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [JavaScript](./problems/674-Longest_Continuous_Increasing_Subsequence.js) | 65ms / 92.88% |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | [JavaScript](./problems/696-Count_Binary_Substrings.js) | 72ms / 99.04% |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [JavaScript](./problems/704-Binary_Search.js) | 62ms / 98.27% |
