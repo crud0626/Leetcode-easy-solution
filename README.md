@@ -116,6 +116,7 @@
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [JavaScript](./problems/1002-Find_Common_Characters.js) | 79ms / 91.71% |
 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [JavaScript](./problems/1009-Complement_of_Base_10_Integer.js) | 61ms / 94.71% |
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [JavaScript](./problems/1018-Binary_Prefix_Divisible_By_5.js) | 78ms / 95.52% |
+| 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [JavaScript](./problems/1022-Sum_of_Root_To_Leaf_Binary_Numbers.js) | 77ms / 89.92% |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [JavaScript](./problems/1025-Divisor_Game.js) | 59ms / 95.48% |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [JavaScript](./problems/1046-Last_Stone_Weight.js) | 78ms / 75.07% |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [JavaScript](./problems/1051-Height_Checker.js) | 67ms / 88.85% |
