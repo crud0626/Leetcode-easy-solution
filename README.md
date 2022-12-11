@@ -216,5 +216,6 @@
 | 2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) | [JavaScript](./problems/2194-Cells_in_a_Range_on_an_Excel_Sheet.js) | 72ms / 96.30% |
 | 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) | [JavaScript](./problems/2206-Divide_Array_Into_Equal_Pairs.js) | 86ms / 81.37% |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [JavaScript](./problems/2215-Find_the_Difference_of_Two_Arrays.js) | 102ms / 93.24% |
+| 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/) | [JavaScript](./problems/2220-Minimum_Bit_Flips_to_Convert_Number.js) | 52ms / 100% |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [JavaScript](./problems/2278-Percentage_of_Letter_in_String.js) | 59ms / 96.95% |
 | 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [JavaScript](./problems/2395-Find_Subarrays_With_Equal_Sum.js) | 76ms / 83.76% |
