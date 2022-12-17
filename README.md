@@ -222,5 +222,6 @@
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | [JavaScript](./problems/2236-Root_Equals_Sum_of_Children.js) | 61ms / 97.54% |
 | 2239 | [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) | [JavaScript](./problems/2239-Find_Closest_Number_to_Zero.js) | 64ms / 96.77% |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [JavaScript](./problems/2243-Calculate_Digit_Sum_of_a_String.js) | 61ms / 97.56% |
+| 2248 | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | [JavaScript](./problems/2248-Intersection_of_Multiple_Arrays.js) | 65ms / 98.80% |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [JavaScript](./problems/2278-Percentage_of_Letter_in_String.js) | 59ms / 96.95% |
 | 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [JavaScript](./problems/2395-Find_Subarrays_With_Equal_Sum.js) | 76ms / 83.76% |
