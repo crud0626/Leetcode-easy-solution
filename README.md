@@ -224,5 +224,6 @@
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [JavaScript](./problems/2243-Calculate_Digit_Sum_of_a_String.js) | 61ms / 97.56% |
 | 2248 | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | [JavaScript](./problems/2248-Intersection_of_Multiple_Arrays.js) | 65ms / 98.80% |
 | 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/description/) | [JavaScript](./problems/2255-Count_Prefixes_of_a_Given_String.js) | 61ms / 98.8% |
+| 2259 | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) | [JavaScript](./problems/2259-Remove_Digit_From_Number_to_Maximize_Result.js) | 63ms / 91.29% |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [JavaScript](./problems/2278-Percentage_of_Letter_in_String.js) | 59ms / 96.95% |
 | 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [JavaScript](./problems/2395-Find_Subarrays_With_Equal_Sum.js) | 76ms / 83.76% |
