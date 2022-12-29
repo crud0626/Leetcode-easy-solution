@@ -232,4 +232,5 @@
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) | [JavaScript](./problems/2315-Count_Asterisks.js) | 60ms / 96.3% |
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | [JavaScript](./problems/2325-Decode_the_Message.js) | 68ms / 92.47% |
 | 2335 | [Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/) | [JavaScript](./problems/2335-Minimum_Amount_of_Time_to_Fill_Cups.js) | 61ms / 98.75% |
+| 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | [JavaScript](./problems/2341-Maximum_Number_of_Pairs_in_Array.js) | 63ms / 93.50% |
 | 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [JavaScript](./problems/2395-Find_Subarrays_With_Equal_Sum.js) | 76ms / 83.76% |
