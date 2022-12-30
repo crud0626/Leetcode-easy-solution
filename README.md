@@ -233,4 +233,5 @@
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | [JavaScript](./problems/2325-Decode_the_Message.js) | 68ms / 92.47% |
 | 2335 | [Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/) | [JavaScript](./problems/2335-Minimum_Amount_of_Time_to_Fill_Cups.js) | 61ms / 98.75% |
 | 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | [JavaScript](./problems/2341-Maximum_Number_of_Pairs_in_Array.js) | 63ms / 93.50% |
+| 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | [JavaScript](./problems/2351-First_Letter_to_Appear_Twice.js) | 57ms / 96.72% |
 | 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [JavaScript](./problems/2395-Find_Subarrays_With_Equal_Sum.js) | 76ms / 83.76% |
