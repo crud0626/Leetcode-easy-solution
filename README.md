@@ -235,4 +235,5 @@
 | 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | [JavaScript](./problems/2341-Maximum_Number_of_Pairs_in_Array.js) | 63ms / 93.50% |
 | 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | [JavaScript](./problems/2351-First_Letter_to_Appear_Twice.js) | 57ms / 96.72% |
 | 2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/) | [JavaScript](./problems/2357-Make_Array_Zero_by_Subtracting_Equal_Amounts.js) | 59ms / 93.76% |
+| 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/description/) | [JavaScript](./problems/2367-Number_of_Arithmetic_Triplets.js) | 56ms / 98.87% |
 | 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [JavaScript](./problems/2395-Find_Subarrays_With_Equal_Sum.js) | 76ms / 83.76% |
