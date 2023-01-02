@@ -152,6 +152,7 @@
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [JavaScript](./problems/1475-Final_Prices_With_a_Special_Discount_in_a_Shop.js) | 77ms / 87.79% |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [JavaScript](./problems/1480-Running_Sum_of_1d_Array.js) | 64ms / 94.16% |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [JavaScript](./problems/1486-XOR_Operation_in_an_Array.js) | 60ms / 97.85% |
+| 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [JavaScript](./problems/1491-Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.js) | 42ms / 100% |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [JavaScript](./problems/1512-Number_of_Good_Pairs.js) | 63ms / 93.36% |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [JavaScript](./problems/1523-Count_Odd_Numbers_in_an_Interval_Range.js) | 59ms / 97.99% |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [JavaScript](./problems/1528-Shuffle_String.js) | 56ms / 99.76% |
