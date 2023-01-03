@@ -130,6 +130,7 @@
 | 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [JavaScript](./problems/1185-Day_of_the_Week.js) | 53ms / 98.42% |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [JavaScript](./problems/1189-Maximum_Number_of_Balloons.js) | 67ms / 95.5% |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [JavaScript](./problems/1200-Minimum_Absolute_Difference.js) | 164ms / 95.30% |
+| 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [JavaScript](./problems/1207-Unique_Number_of_Occurrences.js) | 51ms / 99.75% |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [JavaScript](./problems/1221-Split_a_String_in_Balanced_Strings.js) | 59ms / 96.07% |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [JavaScript](./problems/1281-Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.js) | 68ms / 84.25% |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [JavaScript](./problems/1290-Convert_Binary_Number_in_a_Linked_List_to_Integer.js) | 60ms / 95.88% |
