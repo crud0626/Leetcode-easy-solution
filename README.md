@@ -146,6 +146,7 @@
 | 1403 | [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [JavaScript](./problems/1403-Minimum_Subsequence_in_Non-Increasing_Order.js) | 83ms / 81.31% |
 | 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | [JavaScript](./problems/1408-String_Matching_in_an_Array.js) | 65ms / 96.46% |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [JavaScript](./problems/1431-Kids_With_the_Greatest_Number_of_Candies.js) | 68ms / 90.05% |
+| 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [JavaScript](./problems/1436-Destination_City.js) | 67ms / 91.9% |
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [JavaScript](./problems/1455-Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.js) | 67ms / 86.10% |
 | 1460 | [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) | [JavaScript](./problems/1460-Make_Two_Arrays_Equal_by_Reversing_Sub-arrays.js) | 72ms / 96.73% |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [JavaScript](./problems/1464-Maximum_Product_of_Two_Elements_in_an_Array.js) | 77ms / 81.88% |
