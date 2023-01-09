@@ -137,6 +137,7 @@
 | 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [JavaScript](./problems/1287-Element_Appearing_More_Than_25%_In_Sorted_Array.js) | 72ms / 80% |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [JavaScript](./problems/1290-Convert_Binary_Number_in_a_Linked_List_to_Integer.js) | 60ms / 95.88% |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [JavaScript](./problems/1295-Find_Numbers_with_Even_Number_of_Digits.js) | 43ms / 100% |
+| 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [JavaScript](./problems/1299-Replace_Elements_with_Greatest_Element_on_Right_Side.js) | 171ms / 85.32% |
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [JavaScript](./problems/1309-Decrypt_String_from_Alphabet_to_Integer_Mapping.js) | 74ms / 77.71% |
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [JavaScript](./problems/1313-Decompress_Run-Length_Encoded_List.js) | 84ms / 92.87% |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [JavaScript](./problems/1323-Maximum_69_Number.js) | 64ms / 89.41% |
