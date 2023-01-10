@@ -184,6 +184,7 @@
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [JavaScript](./problems/1748-Sum_of_Unique_Elements.js) | 73ms / 85.30% |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [JavaScript](./problems/1768-Merge_Strings_Alternately.js) | 62ms / 95.20% |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [JavaScript](./problems/1773-Count_Items_Matching_a_Rule.js) | 74ms / 97.85% |
+| 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [JavaScript](./problems/1790-Check_if_One_String_Swap_Can_Make_Strings_Equal.js) | 56ms / 95.97% |
 | 1791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [JavaScript](./problems/1791-Find_Center_of_Star_Graph.js) | 97ms / 99.18% |
 | 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | [JavaScript](./problems/1796-Second_Largest_Digit_in_a_String.js) | 68ms / 97.20% |
 | 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | [JavaScript](./problems/1800-Maximum_Ascending_Subarray_Sum.js) | 54ms / 100% |
