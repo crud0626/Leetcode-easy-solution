@@ -194,6 +194,7 @@
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [JavaScript](./problems/1832-Check_if_the_Sentence_Is_Pangram.js) | 47ms / 99.95% |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | [JavaScript](./problems/1837-Sum_of_Digits_in_Base_K.js) | 62ms / 94.41% |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [JavaScript](./problems/1844-Replace_All_Digits_with_Characters.js) | 63ms / 96.15% |
+| 1854 | [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) | [JavaScript](./problems/1854-Maximum_Population_Year.js) | 68ms / 87.83% |
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [JavaScript](./problems/1859-Sorting_the_Sentence.js) | 60ms / 94.84% |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [JavaScript](./problems/1876-Substrings_of_Size_Three_with_Distinct_Characters.js) | 67ms / 95.80% |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [JavaScript](./problems/1929-Concatenation_of_Array.js) | 78ms / 96.54% |
