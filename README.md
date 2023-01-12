@@ -196,6 +196,7 @@
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [JavaScript](./problems/1844-Replace_All_Digits_with_Characters.js) | 63ms / 96.15% |
 | 1854 | [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) | [JavaScript](./problems/1854-Maximum_Population_Year.js) | 68ms / 87.83% |
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [JavaScript](./problems/1859-Sorting_the_Sentence.js) | 60ms / 94.84% |
+| 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | [JavaScript](./problems/1869-Longer_Contiguous_Segments_of_Ones_than_Zeros.js) | 57ms / 100% |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [JavaScript](./problems/1876-Substrings_of_Size_Three_with_Distinct_Characters.js) | 67ms / 95.80% |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [JavaScript](./problems/1929-Concatenation_of_Array.js) | 78ms / 96.54% |
 | 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | [JavaScript](./problems/1952-Three_Divisors.js) | 68ms / 89.67% |
