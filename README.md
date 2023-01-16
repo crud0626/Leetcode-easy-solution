@@ -202,6 +202,7 @@
 | 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | [JavaScript](./problems/1869-Longer_Contiguous_Segments_of_Ones_than_Zeros.js) | 57ms / 100% |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [JavaScript](./problems/1876-Substrings_of_Size_Three_with_Distinct_Characters.js) | 67ms / 95.80% |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [JavaScript](./problems/1929-Concatenation_of_Array.js) | 78ms / 96.54% |
+| 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | [JavaScript](./problems/1935-Maximum_Number_of_Words_You_Can_Type.js) | 60ms / 94.3% |
 | 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | [JavaScript](./problems/1952-Three_Divisors.js) | 68ms / 89.67% |
 | 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [JavaScript](./problems/1957-Delete_Characters_to_Make_Fancy_String.js) | 236ms / 85.26% |
 | 1961 | [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | [JavaScript](./problems/1961-Check_If_String_Is_a_Prefix_of_Array.js) | 68ms / 94.18% |
