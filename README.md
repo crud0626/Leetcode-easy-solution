@@ -242,6 +242,7 @@
 | 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | [JavaScript](./problems/2264-Largest_3-Same-Digit_Number_in_String.js) | 70ms / 90.8% |
 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | [JavaScript](./problems/2269-Find_the_K-Beauty_of_a_Number.js) | 70ms / 82.47% |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [JavaScript](./problems/2278-Percentage_of_Letter_in_String.js) | 59ms / 96.95% |
+| 2293 | [Min Max Game](https://leetcode.com/problems/min-max-game/) | [JavaScript](./problems/2293-Min_Max_Game.js) | 55ms / 99.30% |
 | 2299 | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/) | [JavaScript](./problems/2299-Strong_Password_Checker_II.js) | 60ms / 98.39% |
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) | [JavaScript](./problems/2315-Count_Asterisks.js) | 60ms / 96.3% |
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | [JavaScript](./problems/2325-Decode_the_Message.js) | 68ms / 92.47% |
