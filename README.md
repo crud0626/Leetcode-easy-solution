@@ -170,6 +170,7 @@
 | 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | [JavaScript](./problems/1544-Make_The_String_Great.js) | 64ms / 97.67% |
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | [JavaScript](./problems/1550-Three_Consecutive_Odds.js) | 53ms / 100% |
 | 1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator/) | [JavaScript](./problems/1556-Thousand_Separator.js) | 59ms / 96.94% |
+| 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/) | [JavaScript](./problems/1572-Matrix_Diagonal_Sum.js) | 61ms / 92.17% |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [JavaScript](./problems/1598-Crawler_Log_Folder.js) | 73ms / 84.72% |
 | 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [JavaScript](./problems/1624-Largest_Substring_Between_Two_Equal_Characters.js) | 63ms / 95.41% |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [JavaScript](./problems/1662-Check_If_Two_String_Arrays_are_Equivalent.js) | 60ms / 95.52% |
