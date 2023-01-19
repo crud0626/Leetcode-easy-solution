@@ -147,6 +147,7 @@
 | 1360 | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | [JavaScript](./problems/1360-Number_of_DaysvBetween_Two_Dates.js) | 47ms / 99.29% |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [JavaScript](./problems/1365-How_Many_Numbers_Are_Smaller_Than_the_Current_Number.js) | 96ms / 83.07% |
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [JavaScript](./problems/1379-Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_That_Tree.js) | 319ms / 88.86% |
+| 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [JavaScript](./problems/1380-Lucky_Numbers_in_a_Matrix.js) | 59ms / 98.54% |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [JavaScript](./problems/1389-Create_Target_Array_in_the_Given_Order.js) | 69ms / 86.36% |
 | 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [JavaScript](./problems/1394-Find_Lucky_Integer_in_an_Array.js) | 68ms / 96.61% |
 | 1403 | [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [JavaScript](./problems/1403-Minimum_Subsequence_in_Non-Increasing_Order.js) | 83ms / 81.31% |
