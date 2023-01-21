@@ -175,6 +175,7 @@
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [JavaScript](./problems/1588-Sum_of_All_Odd_Length_Subarrays.js) | 59ms / 95.70% |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [JavaScript](./problems/1598-Crawler_Log_Folder.js) | 73ms / 84.72% |
 | 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [JavaScript](./problems/1624-Largest_Substring_Between_Two_Equal_Characters.js) | 63ms / 95.41% |
+| 1629 | [Slowest Key](https://leetcode.com/problems/slowest-key/) | [JavaScript](./problems/1629-Slowest_Key.js) | 61ms / 93.69% |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [JavaScript](./problems/1662-Check_If_Two_String_Arrays_are_Equivalent.js) | 60ms / 95.52% |
 | 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | [JavaScript](./problems/1668-Maximum_Repeating_Substring.js) | 66ms / 91.40% |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [JavaScript](./problems/1672-Richest_Customer_Wealth.js) | 72ms / 80.38% |
