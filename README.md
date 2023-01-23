@@ -257,3 +257,4 @@
 | 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/description/) | [JavaScript](./problems/2367-Number_of_Arithmetic_Triplets.js) | 56ms / 98.87% |
 | 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [JavaScript](./problems/2395-Find_Subarrays_With_Equal_Sum.js) | 76ms / 83.76% |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [JavaScript](./problems/2413-Smallest_Even_Multiple.js) | 62ms / 83.49% |
+| 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | [JavaScript](./problems/2427-Number_of_Common_Factors.js) | 56ms / 96.55% |
